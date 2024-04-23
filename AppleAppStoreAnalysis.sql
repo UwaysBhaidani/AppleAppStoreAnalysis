@@ -1,4 +1,4 @@
--- Combining 4 spreadsheets into one for more efficient analysis
+-- Combining 4 spreadsheets into one for efficiency
 
 create table applestore_description_combined AS
 
